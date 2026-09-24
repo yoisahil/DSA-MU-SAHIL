@@ -1,0 +1,69 @@
+QUESTION:1
+ What is an algorithm? List two characteristics of a good algorithm?
+ANSWER:2
+ An algorithm is a step-by-step procedure used to solve a problem or perform a task.
+Two characteristics of a good algorithm are:
+Correctness: It should produce the correct output.
+Efficiency: It should use minimum time and memory.
+
+
+QUESTION:2
+ Explain the difference between static and dynamic data structures?
+ANSWER:2
+ Static data structures have a fixed size that cannot be changed.
+ Dynamic data structures can grow or shrink in size.
+
+
+QUESTION:3
+ What is an abstract data type (ADT)? Give one example.
+ANSWER:3
+ It specifies what operations can be performed on the data.
+ Example: Stack is an ADT with operations like push and pop.
+
+
+QUESTION:4
+ What is the difference between a stack's push and pop operations?
+ANSWER:4
+ Push is the operation used to add an element to the top of a stack.
+ Pop is the operation used to remove an element from the top of a stack.
+
+
+QUESTION:5
+ What is a queue's enqueue operation? What happens during dequeue?
+ANSWER:5
+ Enqueue is the operation of adding an element to the rear of a queue.
+
+
+QUESTION:6
+ What is the best-case and worst-case time complexity of linear search?
+ANSWER:6
+ best-case time complexity:- O(1)
+ worst-case time complexity:- O(n)
+
+
+QUESTION:7
+ Why must data generally be sorted before applying binary search?
+ANSWER:7
+ Binary search needs sorted data so it can easily decide which half to search next.
+ Without sorting, it cannot know which half contains the required element.
+
+
+QUESTION:8
+ What is a singly linked list? How is it different from an array?
+ANSWER:8
+ A single linked list is a collection of node poinmt where easch nodes is connected to next node.
+ Unlike an array, its size can grow dynamically and elements are not stored in continuous memory.
+
+
+QUESTION:9
+ What is a binary tree? What is the maximum number of children of a node?
+ANSWER:9
+ A binary tree is a tree-like data structure where nodes are connected in a hierarchical way.
+ Each node can have a maximum of two children, called the left and right child.
+
+
+QUESTION:10
+ Differentiate between BFS and DFS at a basic conceptual level
+ANSWER:10
+ BFS (Breadth-First Search) explores nodes level by level, starting with nearby nodes first.
+ DFS (Depth-First Search) explores one path deeply before moving back and trying another path.

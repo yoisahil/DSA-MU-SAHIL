@@ -1,0 +1,7 @@
+#include<iostream>
+using namesspace std;
+//pass by value
+int change(int x){
+    return x=100 
+}
+int main()
