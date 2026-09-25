@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -40,4 +42,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
