@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0125-valid-palindrome) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -101,6 +102,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
