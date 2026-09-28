@@ -51,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Stack
@@ -76,6 +77,7 @@
 | [0066-plus-one](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1470-shuffle-the-array) |
@@ -85,6 +87,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
