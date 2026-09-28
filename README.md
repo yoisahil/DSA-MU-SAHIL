@@ -69,6 +69,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -88,4 +89,8 @@
 | ------- |
 | [0066-plus-one](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
