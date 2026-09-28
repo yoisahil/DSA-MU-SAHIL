@@ -77,6 +77,7 @@
 | [1470-shuffle-the-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1920-build-array-from-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,4 +96,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0027-remove-element) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
