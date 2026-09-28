@@ -36,14 +36,17 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 ## Array
 |  |
@@ -79,6 +83,7 @@
 | [0189-rotate-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1672-richest-customer-wealth) |
@@ -111,4 +116,16 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1920-build-array-from-permutation) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
