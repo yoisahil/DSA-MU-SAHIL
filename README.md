@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [1672-richest-customer-wealth](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1920-build-array-from-permutation) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
