@@ -7,6 +7,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0125-valid-palindrome) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
@@ -27,6 +28,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -64,6 +66,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
