@@ -11,6 +11,7 @@
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0125-valid-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
@@ -33,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -71,6 +74,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -149,4 +153,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
