@@ -143,6 +143,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
