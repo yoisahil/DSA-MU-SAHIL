@@ -83,6 +83,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [1051-height-checker](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
@@ -133,6 +135,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
