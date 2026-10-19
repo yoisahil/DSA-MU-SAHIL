@@ -112,6 +112,7 @@
 | [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -133,6 +134,7 @@
 | [1672-richest-customer-wealth](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -201,6 +203,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
