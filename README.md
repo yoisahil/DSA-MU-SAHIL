@@ -116,6 +116,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,4 +254,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
