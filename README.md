@@ -80,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
@@ -127,6 +129,7 @@
 | [0066-plus-one](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
@@ -164,6 +167,7 @@
 | [0050-powx-n](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -211,11 +215,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
