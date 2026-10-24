@@ -22,6 +22,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@
 | [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
