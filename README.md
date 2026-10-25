@@ -108,6 +108,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0724-find-pivot-index](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1051-height-checker) |
+| [1254-number-of-closed-islands](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -160,6 +162,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
@@ -247,6 +250,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -272,4 +276,8 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3886-sum-of-sortable-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
