@@ -9,6 +9,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0301-remove-invalid-parentheses) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0125-valid-palindrome) |
@@ -314,4 +316,20 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
