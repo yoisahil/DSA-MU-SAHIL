@@ -34,6 +34,7 @@
 | [0678-valid-parenthesis-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -158,6 +159,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -175,6 +177,7 @@
 | [1672-richest-customer-wealth](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
