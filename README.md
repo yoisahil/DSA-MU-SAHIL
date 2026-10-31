@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0050-powx-n) |
 ## Binary Indexed Tree
 |  |
