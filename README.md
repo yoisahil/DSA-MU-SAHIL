@@ -185,6 +185,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0189-rotate-array) |
@@ -244,6 +245,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3644-maximum-k-to-sort-a-permutation) |
