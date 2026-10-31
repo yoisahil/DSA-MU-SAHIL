@@ -140,6 +140,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0189-rotate-array) |
@@ -241,6 +242,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2333-minimum-sum-of-squared-difference) |
