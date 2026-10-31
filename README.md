@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0301-remove-invalid-parentheses) |
@@ -90,6 +91,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0268-missing-number](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1096-brace-expansion-ii) |
@@ -334,4 +336,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
