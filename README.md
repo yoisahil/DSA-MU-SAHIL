@@ -36,6 +36,7 @@
 | [0678-valid-parenthesis-string](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
@@ -78,6 +79,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
@@ -99,6 +101,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Stack
 |  |
@@ -165,6 +168,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -202,6 +206,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3886-sum-of-sortable-integers) |
@@ -349,4 +354,5 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yoisahil/DSA-MU-SAHIL/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
